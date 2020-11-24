@@ -1,9 +1,12 @@
 This project was bootstrapped with Create-React-App
 
 1. In the project directory, 
-run ->npm install 
+
+run ->npm install
+
 run -> npm start 
- Open http://localhost:3000 to view it in the browser.
+
+Open http://localhost:3000 to view it in the browser.
 
 2.In the src folder , I have created two files ->ChangeColor.js and 
 withMouseProperties.js.
